@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Jon
+subtitle: Software Engineer with over 10 years of experience
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I live in the North of England, love to travel, and advocate the use of technology to both make our lives easier and improve our planet.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+Originally taught myself PHP when I was 14 because I was fed up of repeating code changes (template engines are amazing!) From there I want to college and university and was introduced to the .NET ecosystem and haven't looked back since.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+After developing commercially for nearly 6 years, I was presented with the opportunity to become CTO of an exciting new startup, Asemblr. Going from a senior developer to managing all technical aspects of a fast growing company isn't without its difficulties but the experience continues to be amazing and I wouldn't change it for the world. That was until funding ran out.
+
+I currently work for Deliveroo writing Go micro-services, along with a whole host of other connecting technologies.
