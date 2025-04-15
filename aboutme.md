@@ -10,6 +10,6 @@ Originally taught myself PHP when I was 14 because I was fed up of repeating cod
 
 ### My story
 
-After developing commercially for nearly 6 years, I was presented with the opportunity to become CTO of an exciting new startup, Asemblr. Going from a senior developer to managing all technical aspects of a fast growing company isn't without its difficulties but the experience continues to be amazing and I wouldn't change it for the world. That was until funding ran out.
+After developing commercially for nearly 6 years, I was presented with the opportunity to become CTO of an exciting new startup, Asemblr. Going from a senior developer to managing all technical aspects of a fast growing company isn't without its difficulties but the experience continues to be amazing and I wouldn't change it for the world.
 
 I currently work for Deliveroo writing Go micro-services, along with a whole host of other connecting technologies.
